@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listing>
+    <listingToolbar name="listing_top">
+        <massaction name="listing_massaction">
+            <action name="salesforce"
+                    class="MageMe\WebFormsSalesforce\Ui\Component\Result\Listing\MassActions\SubActions\Salesforce">
+                <settings>
+                    <type>salesforce</type>
+                    <label translate="true">Salesforce</label>
+                </settings>
+            </action>
+        </massaction>
+    </listingToolbar>
+</listing>

@@ -1,0 +1,9 @@
+{
+    "mm_webforms_form": {
+        "column": {
+            "is_salesforce_enabled": true,
+            "salesforce_email_field_id": true,
+            "salesforce_map_fields_serialized": true
+        }
+    }
+}
